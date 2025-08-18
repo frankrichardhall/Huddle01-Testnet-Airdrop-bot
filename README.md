@@ -54,3 +54,4 @@ A Node.js-based automation script that helps you **join Huddle01 rooms** with mu
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+ 
